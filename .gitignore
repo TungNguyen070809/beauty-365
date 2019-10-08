@@ -1,0 +1,19 @@
+# Build Output
+dist
+.next
+.vscode
+.DS_Store
+
+# Dependencies
+node_modules
+package-lock.json
+config.json
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
